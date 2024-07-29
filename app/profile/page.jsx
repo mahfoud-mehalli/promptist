@@ -39,10 +39,10 @@ const MyProfile = () => {
         });
 
         const filteredPosts = myPosts.filter((item) => item._id !== post._id);
-
+ 
         setMyPosts(filteredPosts);
       } catch (error) {
-        console.log(error);
+        console.error("Failed to delete post:", error);
       }
     }
   };
