@@ -9,13 +9,18 @@ The app boasts a sleek, glassmorphism-inspired design, offering a visually appea
 # 💡 Key Features
 
 Discover & Share AI Prompts: Users can explore AI prompts shared by the community and contribute their own.
-Edit & Delete Prompts: Easily manage your created prompts with options to edit or delete as needed.
-Profile Pages: Each user has a dedicated profile showcasing their contributions, with the ability to view others' profiles.
-Search by Tags: Find specific prompts quickly by searching with tags.
-Copy to Clipboard: Conveniently copy prompts for use with a single click.
-🔐 Authentication & Security
 
-### The app integrates Google authentication using NextAuth, providing a secure and streamlined login experience.
+Edit & Delete Prompts: Easily manage your created prompts with options to edit or delete as needed.
+
+Profile Pages: Each user has a dedicated profile showcasing their contributions, with the ability to view others' profiles.
+
+Search by Tags: Find specific prompts quickly by searching with tags.
+
+Copy to Clipboard: Conveniently copy prompts for use with a single click.
+
+# 🔐 Authentication & Security
+
+The app integrates Google authentication using NextAuth, providing a secure and streamlined login experience.
 
 # 🛠️ Tech Stack
 
